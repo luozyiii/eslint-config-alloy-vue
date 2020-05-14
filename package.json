@@ -1,0 +1,35 @@
+{
+  "name": "eslint-config-alloy-vue",
+  "version": "1.0.0",
+  "description": "基于eslint-config-alloy的vue项目校验",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luozyiii/eslint-config-alloy-vue.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config-alloy",
+    "vue",
+    "eslint-config-alloy-vue"
+  ],
+  "author": "leslie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luozyiii/eslint-config-alloy-vue/issues"
+  },
+  "homepage": "https://github.com/luozyiii/eslint-config-alloy-vue#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.0.0",
+    "eslint-config-alloy": "^3.7.2",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.3",
+    "eslint-plugin-vue": "^6.2.2",
+    "prettier": "^2.0.5",
+    "vue-eslint-parser": "^7.0.0"
+  }
+}
